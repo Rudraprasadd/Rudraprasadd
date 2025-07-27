@@ -2,8 +2,9 @@
 <h3 align="center">A Backend Developer | Java Enthusiast | Final-year B.Tech CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1F8AC0&center=true&vCenter=true&width=440&lines=Passionate+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Learning+Cloud+%7C+Security+%7C+Scalability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1F8AC0&width=440&lines=Passionate+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+Microservices" alt="Typing SVG" />
 </p>
+
 
 ---
 

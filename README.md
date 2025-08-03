@@ -27,25 +27,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rudraprasadd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rudraprasadd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rudraprasadd&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraprasadd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rudraprasadd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ### 🤝 Let's Collaborate!
 - 🤝 I'm open to contributing to **backend-focused web apps** or **academic/real-world projects**  
-- 💬 Ask me about anything related to **Java**, **Spring Boot**, or **API Design**  
 - ⚡ Fun fact: I love fixing bugs more than creating them 😄
-
-<p align="left">
-  <a href="mailto:rudraprasadsatapathy3506@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rudraprasadsatapathy/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/rudraprasadsatapathy"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 

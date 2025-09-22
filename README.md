@@ -24,10 +24,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rudraprasadd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 ### 🤝 Let's Collaborate!
 - 🤝 I'm open to contributing to **backend-focused web apps** or **academic/real-world projects**  
 - ⚡ Fun fact: I love fixing bugs more than creating them 😄
@@ -40,5 +36,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rudraprasadd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-*Crafted with ❤️ by Rudraprasad Satapathy*

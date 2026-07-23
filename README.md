@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudraprasad Satapathy</h1>
-<h3 align="center">A Backend Developer | Java Enthusiast | Final-year B.Tech CSE Student</h3>
+<h3 align="center">A Backend Developer | Java Enthusiast | B.Tech CSE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1F8AC0&width=440&lines=Passionate+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+Microservices" alt="Typing SVG" />

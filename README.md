@@ -21,7 +21,7 @@
 - 🎓 **B.Tech CSE** — GIET University, Gunupur (Graduated **June 2026**)
 - 💼 Hands-on with **Spring Boot 3**, **Kafka**, **gRPC**, **Docker**, **JWT/OAuth2**
 - 🧠 Oracle SQL Certified • Wipro Java Full Stack Certified
-- 🎯 **Actively looking for full-time Software Developer roles** — available to join immediately
+- 🎯 **Actively looking for full-time Software Developer / Intern roles** — available to join immediately
 - ⚡ Fun fact: I enjoy fixing bugs more than writing them 😄
 
 ---

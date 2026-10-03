@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year Computer Science student at GIET University, Gunupur  
+- 🎓 Computer Science @GIET University, Gunupur  
 - 🧠 Passionate about building robust, secure, and scalable backend systems  
 - 🔨 Proficient in **Java**, **Spring Boot**, **MySQL**, and **RESTful APIs**  
 - 🚀 Currently working on a **Crime Management System** using Spring Boot, Microservices & Thymeleaf  
